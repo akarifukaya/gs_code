@@ -1,0 +1,30 @@
+/* 　paddingは幅をセッティング  */
+.b823{
+   
+    border-radius: 40px
+}
+
+/* 　margin-top上を間をあける margin-bottom下をあける */
+.c823{
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+
+.d823{
+    background-color: rgb(252, 127, 127);
+
+}
+
+.e823{
+    background-color: rgb(151, 186, 250);
+
+}
+
+.f823{
+    display:flex;
+    margin-top: 20px;
+    padding: 20px
+
+}
+
