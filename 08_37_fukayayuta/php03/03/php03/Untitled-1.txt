@@ -1,0 +1,1 @@
+UPDATE gs_an_table SET name = 'ふかや',email='test',age=30,naiyou='あああ'
