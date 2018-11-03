@@ -1,0 +1,61 @@
+【ファイルアップロード　サンプルURL】
+※QRコード読み込めない人へ。画面の「送信」ボタンは押さないでください。
+https://gs-lecture-qeit.c9users.io/php05/upload.html
+
+
+
+PHPでのファイルアップロードとエラーチェックの方法
+http://www.flatflag.nir87.com/move_uploaded_file-970#tablepress-21
+
+入力欄 (フォーム入力) 要素
+https://developer.mozilla.org/ja/docs/Web/HTML/Element/Input
+
+
+送信時のデータ形式を指定する
+https://www.tagindex.com/html_tag/form/form_enctype.html
+
+accept属性
+http://html5.cyberlab.info/elements/forms/input-accept.html
+
+
+
+[フロントエンド] multipart/form-dataを理解してみよう
+https://www.yoheim.net/blog.php?q=20171201
+
+HTMLから画像をアップロードするためのinput type="file"とHTML Media Capture
+https://kiririmode.hatenablog.jp/entry/20170523/1495471405
+
+HTML Media Capture
+https://www.w3.org/TR/html-media-capture/
+
+
+初心者目線でAjaxの説明
+https://qiita.com/hisamura333/items/e3ea6ae549eb09b7efb9
+
+
+
+
+【 PHPマニュアル 】
+ - アップロードされたファイルかどうかを調べる(is_uploaded_file)
+http://php.net/manual/ja/function.is-uploaded-file.php
+
+ - アップロードされたファイルを新しい位置に移動する(is_uploaded_file)
+http://php.net/manual/ja/function.move-uploaded-file.php
+
+ - ファイルのモードを変更する(chmod)
+http://php.net/manual/ja/function.chmod.php
+
+ - ファイルパスに関する情報を返す(pathinfo)
+http://php.net/manual/ja/function.pathinfo.php
+
+ - 文字列のmd5ハッシュ値を計算する(md5)
+http://php.net/manual/ja/function.md5.php
+
+ - 文字列を小文字にする(strtolower)
+http://php.net/manual/ja/function.strtolower.php
+
+
+
+【jQuery Documentation】
+ - Ajax
+http://api.jquery.com/jquery.ajax/
